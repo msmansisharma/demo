@@ -4,8 +4,4 @@
 
 wq
 
-<<<<<<< HEAD
-Hope this will not be an issue
-=======
-This will cause a issue or confilct
->>>>>>> very-bad
+just something going to modified
